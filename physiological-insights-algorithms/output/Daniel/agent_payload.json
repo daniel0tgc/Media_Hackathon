@@ -1,0 +1,152 @@
+{
+  "schema_version": "3.0",
+  "meta": {
+    "analysis_generated_at": "2026-02-28T19:05:37.422035+00:00",
+    "data_coverage": {
+      "test_results": {
+        "from": "2026-02-13 14:54:00.972000+00:00",
+        "to": "2026-02-28 04:42:18.644000+00:00",
+        "total_tests": 44
+      },
+      "sensor_data": {
+        "from": "2026-02-23 17:27:30+00:00",
+        "to": "2026-02-28 00:01:00+00:00",
+        "total_epochs": 11888
+      },
+      "sleep_sessions": {
+        "from": "2026-02-24 05:57:00+00:00",
+        "to": "2026-02-27 16:20:00+00:00",
+        "total_sessions": 5
+      }
+    }
+  },
+  "agent_state": {
+    "readiness_regime": "chronic_yellow",
+    "consecutive_overreach_days": 0,
+    "days_since_rest_day": 4,
+    "sleep_debt_alert": true,
+    "rem_deficit_alert": true,
+    "circadian_anchor_missing": false,
+    "recommended_strain_ceiling": 14,
+    "deep_work_capacity": "low",
+    "nap_recommended": true,
+    "nap_window_local": "15:00-16:00",
+    "peak_cognitive_window_local": "10:00-13:00",
+    "peak_cognitive_confidence": "low"
+  },
+  "data_quality": {
+    "sensor_days": 5,
+    "sleep_sessions_primary": 4,
+    "self_report_populated_pct": 100,
+    "morning_hrv_populated_pct": 100,
+    "focus_metric_valid": false,
+    "strain_recovery_curve_learnable": true,
+    "chronotype_confidence": "medium",
+    "overall_confidence": "low",
+    "confidence_note": "Low confidence: only 5 sensor day(s), only 4 primary sleep session(s), only 0 Ready test(s). Collect more data for reliable insights."
+  },
+  "alerts": [
+    {
+      "id": "CHRONIC_UNDERRECOVERY",
+      "severity": "warning",
+      "message": "Recovery has not reached green zone in 4 sessions.",
+      "recommended_action": "Prioritize sleep, reduce training load, and consider a rest day."
+    },
+    {
+      "id": "SLEEP_DEBT_ACCUMULATING",
+      "severity": "warning",
+      "message": "You owe 1.8h of sleep. Trend: worsening.",
+      "recommended_action": "Aim for 57 extra minutes tonight."
+    },
+    {
+      "id": "REM_DEFICIT",
+      "severity": "warning",
+      "message": "Average REM is 16.8% (target \u226520%). REM debt over last 3 nights: 39 min.",
+      "recommended_action": "Avoid alcohol and late caffeine. Aim for consistent wake time."
+    }
+  ],
+  "baseline": {
+    "ready_score": 137.0,
+    "agility_peak": 93.0,
+    "rmssd_sleep_peak_ms": 59.5,
+    "ready_p25": 146.9,
+    "ready_p50": 150.8,
+    "ready_p75": 153.6
+  },
+  "latest_day": {
+    "date": "2026-02-27",
+    "readiness_tier": "Moderate",
+    "ready_mean": 147.8,
+    "ready_pct_baseline": 107.9,
+    "agility_mean": 83.5,
+    "strain": {
+      "score": 11.1,
+      "level": "moderate",
+      "sleep_need_adjustment_min": 15
+    }
+  },
+  "circadian": {
+    "estimated_peak_window": "10:00-13:00",
+    "cosinor_acrophase_hour": 12.3,
+    "cosinor_amplitude": 6.6,
+    "worst_window": "00:00-02:00",
+    "peak_score_variance": 56.5,
+    "natural_sleep_onset_local": "01:42",
+    "natural_wake_local": "09:14",
+    "bedtime_variance_min": 32.0,
+    "chronotype_estimate": "intermediate",
+    "cosinor_n": 19
+  },
+  "recovery": {
+    "latest": 51.0,
+    "zone": "yellow",
+    "personal_mean": 50.0,
+    "pct_of_mean": 101.8,
+    "trend": "improving",
+    "days_since_green_zone": 4
+  },
+  "sleep_debt": {
+    "current_debt_min": 105.0,
+    "current_debt_hours": 1.8,
+    "nights_to_repay": 7,
+    "avg_nightly_deficit_min": 124.2,
+    "trend": "worsening",
+    "nightly_deficit_trend": "worsening"
+  },
+  "sleep_performance": {
+    "composite_score": 82.1,
+    "sufficiency": 78.3,
+    "efficiency": 88.1,
+    "consistency": 86.5,
+    "architecture_quality": 75.4,
+    "bedtime_variance_min": 32
+  },
+  "sleep_architecture_summary": {
+    "avg_deep_pct": 25.8,
+    "avg_rem_pct": 16.8,
+    "avg_light_pct": 57.3,
+    "avg_efficiency_pct": 88.1,
+    "deep_target": "15-20%",
+    "rem_target": "20-25%",
+    "rem_debt_min_3night": 39,
+    "session_type_breakdown": {
+      "primary_nights": 4,
+      "nap_sessions": 1
+    }
+  },
+  "strain": {
+    "latest_score": 11.1,
+    "latest_level": "moderate",
+    "latest_sleep_need_adj_min": 15,
+    "max_hr_est": 150.0,
+    "days_since_rest_day": 4,
+    "strain_variability": "moderate",
+    "rest_day_overdue": false
+  },
+  "trends": {
+    "ready_7d_slope": 1.2,
+    "ready_trend_direction": "improving",
+    "rmssd_7d_slope": 1.6,
+    "agility_trend": "stable"
+  }
+}

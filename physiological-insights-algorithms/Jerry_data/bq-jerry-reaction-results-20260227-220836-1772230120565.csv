@@ -1,0 +1,331 @@
+id,user_id,created_at,type,session_id,team_id,baseline_id,comment,is_baseline,is_failed,model_identifier,onset_moments,score,deletion_reason,is_deleted,sebring_config,failure_type,failure_reason,sharing_mode,meta_data,firmware_version,software_version,device_timezone
+6121954b-661f-5309-af91-5684d0a75a06,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 16:52:38.654 UTC,AGILITY,,,,same as test about a minute ago,false,false,,,75,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+e37f7f33-1594-5cb2-a371-c53e4a486cef,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 16:50:42.537 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"studying before I have recitation
+
+stress: 5/10
+sleepiness: 5/10
+sharpness: 8/10
+
+
+
+",false,false,,,135.62492370605469,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+5c709b94-ef03-4afc-be99-b0fffad81733,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-16 20:55:37.249417 UTC,READY,,,,,true,false,,,185,,false,,FAILURE_TYPE_NONE,"",public,,,,UTC
+96ed8991-747e-5d67-b91e-59a7297a3c03,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 20:33:24.655 UTC,AGILITY,,,,same as before test about 1 min ago,false,false,,,25,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+2d8ffabb-80fd-55f8-8501-d974616bc1df,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-17 19:46:33.826 UTC,AGILITY,,,,,false,false,,,66,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,,UTC-05:00
+4c3a86bc-3725-5831-9d84-47669d1849a5,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 06:16:53.65 UTC,AGILITY,,,,"finished working on light work, showered, relaxed, about to sleep soon
+
+stress: 4/10
+sleepiness: 5/10
+sharpness: 8/10",false,false,,,69,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+d0d1433a-92c9-5af6-a0fa-347d1b91e045,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 05:20:13.182 UTC,FOCUS,,,,same as a few minutes ago,false,false,,,3,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+b974594e-4026-5f37-bff7-96ad1c2aab03,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-18 02:05:48.576 UTC,AGILITY,,,,"",false,false,,,61,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+2a0bac14-047f-5340-a3b0-156d9b5b18a2,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 21:26:18.556 UTC,FOCUS,,,,same as before in the other tests taken in the past few mins,false,false,,,4,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+8d5d0be1-c60b-5c6e-8445-e100acb87d33,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 16:39:57.767 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"at vassar dining, just finished eating
+
+stress: 5/10
+sleepiness: 2.5/10
+sharpness: 8/10",false,false,,,165.74995422363281,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+eea8a101-8064-5d62-bd5e-e173d9292858,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 01:47:53 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"post dinner; had a lot of exciting work related things with Pison happen today; now working at Simmons with  my friend Daniel after getting dinner
+
+stress: 5/10
+sleepiness: 5/10
+sharpness: 7.5/10",false,false,,,154.16641235351562,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+971abb2c-930b-5d28-842f-305dce021cf3,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 23:27:17.67 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"at maseeh dining hall, 3/4 way done eating meal
+
+stress: 5/10
+sleepiness: 3/10
+sharpness: 8/10",false,false,,,157.85713195800781,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+9fc7cf0b-e013-509f-8c99-fd6bf7b34552,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 00:05:06.016 UTC,AGILITY,,,,same as test 2 mins ago,false,false,,,60,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+f3033985-8772-5a8c-9b10-a06c1b2d2b87,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-17 19:45:44.653 UTC,READY,,,,,false,false,,,162.49992370605469,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,,UTC-05:00
+fe1b1443-d307-5916-88e6-5556375fe348,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-18 02:25:03.083 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"",false,false,,,161.00004577636719,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+ac54e4a0-d070-5711-906c-09ea266c2b13,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 21:24:38.087 UTC,AGILITY,,,,same as test about 2 minutes ago,false,false,,,64,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+2af4ccfa-2e4f-56b4-965f-3cc530031c21,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-18 00:08:33.313 UTC,AGILITY,,,,"",false,false,,,66,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+ba6db00e-0000-55a9-b418-4efb43b58a81,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 00:07:50.942 UTC,FOCUS,,,,same as before test a few mins ago; do feel slightly more focused and motivated though after taking this focus test,false,false,,,2,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+11c6ccd8-16ab-5dba-a7fb-923857353a5a,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-21 21:57:25.675 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"working, finished working out strength training shoulders (45 minutes) + ran 1 mile and then cooled down
+
+stress: 4/10
+sleepiness: 1/10
+sharpness: 8/10",false,false,,,158.54165649414062,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+f79e9e57-8dc8-58b2-a48c-0e001e0cb192,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 15:50:23.683 UTC,AGILITY,,,,same as previous test like 1-2 minutes ago,false,false,,,51,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+f34c3f75-bb62-56d3-b3df-5b7bf5dee010,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 16:59:08.928 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"one of the reaction times I kind of “guessed” or predicted that it was going to come, so this might mess up the data
+
+stress: 5/10
+sleepiness: 2.5/10
+sharpness: 8/10",false,false,,,123.12521362304688,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+54471ecf-f63a-5014-a5e2-10a452957353,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 00:02:00.603 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"about to start working after eating heavy meal for dinner; took a walk afterward back to dorm
+
+stress: 5/10
+sleepiness: 5/10
+sharpness: 7/10",false,false,,,141.66661071777344,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+a375569c-7dab-5fce-9342-889ce668a614,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-21 20:13:11.19 UTC,FOCUS,,,,same place and metrics as the previous tests recently. still listening to pop music,false,false,,,1,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+4c346fef-a9e2-5607-919f-9fc9f58bc58e,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-21 17:55:04.35 UTC,AGILITY,,,,"at vassar dining hall, finished eating and about to start working.
+stress: 5/10
+sleepiness: 3/10
+subjective sharpness: 7.5/10",false,false,,,61,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+8b29c5a3-830c-5a6f-ae12-cc8f85f1aaf9,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-21 17:57:44.273 UTC,FOCUS,,,,"at vassar dining hall, finished meal, about to work
+
+stress: 5/10
+sleepiness: 3/10
+subjective sharpness: 7.5/10",false,false,,,2,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+2d6bfbfd-30af-5d4f-9785-6ae677ab9dae,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 19:01:40.752 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,same as test about a minute ago,false,false,,,145.74980163574219,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+f8c866a9-f248-5f2f-83be-93f7afae8bbe,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-19 02:00:14.804 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"i feel like this test doesnt account for false reactions, i was predicting when the next light would flicker",false,false,,,154.99916076660156,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+dc7ff8d1-900d-55d1-9b4d-87ee7deed59a,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 17:01:27.038 UTC,AGILITY,,,,same as the before test about 1 min ago,false,false,,,71,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+a70aba33-4fa2-5b42-a175-f5fb066a48a1,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-18 00:07:36.996 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"",false,false,,,194.7919921875,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+298d74bf-b9a6-585c-b22c-f95e8ef7f816,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 19:41:14.378 UTC,AGILITY,,,,same as the previous test like 2 mins ago,false,false,,,67,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+cabeb359-8331-5a74-bc1a-2d999057b5f6,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 01:50:34.305 UTC,AGILITY,,,,same as the test 2 minutes earlier,false,false,,,61,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+9fc23633-33f3-516f-b0ba-163a9a7fc8d5,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 00:41:21.168 UTC,AGILITY,,,,same as test before a minute ago,false,false,,,63,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+afa3bbd9-bcfd-54c3-ab1f-5083f4d2aae0,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-21 23:15:45.052 UTC,AGILITY,,,,"finished a work session researching Pison for about 1.5 hours. now started eating.
+
+stress: 3.5/10
+sleepiness: 3/10
+sharpness: 7.5/10",false,false,,,63,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+0f570dab-d9bc-5402-96c3-c014b8a191fc,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 16:06:03.183 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"right about to eat, didn’t sleep well last night but I still woke up feeling completely fine; drank a lot of water in the morning
+
+stress: 5.5/10 (I have a lot to do, but I don’t feel anxious about it)
+sleepiness: 3/10
+sharpness: 8/10",false,false,,,153.25015258789062,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+c83d1cc1-6e1c-5dc7-b9f0-e01abbc07b5f,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-21 20:07:12.287 UTC,AGILITY,,,,"at dorm room, after eating
+
+same metrics as before
+
+listening to Frank Sinatra while doing this agility test",false,false,,,67,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+095d28e2-c4e8-58ad-a9d8-ebe8cdd19445,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 19:37:25.978 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"in voice memo at 2:30 pm ish. at lab hours about to work after having lunch
+
+stress: 3/10
+sleepiness: 1.5/10
+sharpness: 8/10",false,false,,,149.99971008300781,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+9ed144d4-28f4-5ddb-8824-bbaff52d3404,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 05:18:35.591 UTC,AGILITY,,,,same as before test a minute ish ago,false,false,,,73,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+77635b61-375f-5d80-84ce-4768bee1bd2d,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 03:45:26.581 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"doing some work using AI; feel pretty tired
+
+stress: 3.5/10
+sleepiness: 6/10
+sharpness: 5.5/10",false,false,,,154.642822265625,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+44e4e4f7-56c9-58a8-b37d-9489892ab13d,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 20:30:54.611 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"took 30 mins nap; was in bed for like 1.25 hours. woke up feeling like brain fog was mostly gone. at dorm room
+
+stress: 6/10
+sleepiness: 3/10
+sharpness: 8/10",false,false,,,152.08334350585938,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+618ea6ff-c9f5-54e8-a1a1-304a311641c7,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 17:03:12.466 UTC,FOCUS,,,,same as before test a few minutes ago,false,false,,,2,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+5686ef1a-8f8c-5212-8ab7-6b6d45dcf0ac,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 01:52:11.11 UTC,FOCUS,,,,almost the same as 2 minutes ago except I feel like 8/10 for sharpness,false,false,,,4,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+02f67d40-d29d-5555-b868-07ee2c0ae005,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 19:42:58.706 UTC,FOCUS,,,,same as before written like 4 minutes ago,false,false,,,4,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+b07728bf-7dca-5f9e-91a8-6f385f4d9f0d,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 01:12:21.333 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,same notes as the agility test at 8:10 pm ish recently. I used my hand opening for this test instead of flicking it upward in response to the flashing light,false,false,,,159.79129028320312,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+6331edf8-e9e2-586d-b9ea-4c748c15245e,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-20 22:18:01.689 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"",false,false,,,189.82164001464844,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+7af896d6-bd1a-52fe-b331-cc71e83f64d8,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-20 02:43:55.797 UTC,AGILITY,,,,"",false,false,,,74,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+f00977a5-baf2-5efa-b3cf-26b5703da5cf,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 15:47:03.682 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"woke up at 9:07 am, was not sleepy upon wakening, could not fall back asleep because I woke up naturally; ready got 50 ish minutes; went to Vassar dining hall ate light breakfast; starting to work
+
+stress: 5/10
+sleepiness: 3.5/10
+sharpness: 7.5/10",false,false,,,169.25027465820312,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+4da60598-2225-55c2-8fb9-a6a5723fd2d7,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 19:12:49.035 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"finished having meeting for Pison, ate a small lunch (sandwich), at dorm room; feel a little fatigued mentally because I didn’t get enough sleep last night despite waking up feeling awake
+
+stress: 5/10
+sleepiness: 6.5/10 
+sharpness: 6.5/10",false,false,,,147.29173278808594,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+7edf8e49-79a9-576d-b768-fbe0a97ae896,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-20 22:19:10.373 UTC,AGILITY,,,,"",false,false,,,50,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+2828c4a9-730b-55a9-9efd-fd90bef17f73,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 16:24:07.533 UTC,AGILITY,,,,"eating breakfast
+
+stress: 5/10
+sleepiness: 5/10
+sharpness: 7.5/10 ",false,false,,,58,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+dbd6a4ea-da7c-51bf-afd9-e2321cf08b16,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 18:58:30.478 UTC,AGILITY,,,,"finished work session for 2 hours (medium load work); at vassar dining hall working, about to eat lunch
+
+stress: 6/10 (have assignments due)
+sleepiness: 4/10
+sharpness: 7.5/10",false,false,,,68,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+10f00253-260c-526e-b0d9-4b22abd262a5,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-21 20:03:42.67 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"at dorm room, after eating light meal
+
+stress: 6/10
+sleepiness: 2.5/10
+sharpness: 7/10",false,false,,,177.49990844726562,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+a0ff5585-3fea-5eac-8992-d11a6592ae6b,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 21:19:30.147 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"finished eating a light lunch 1.5 hours ago; took a walk, had a 45 min meeting; working now
+
+stress: 5.5/10
+sleep: 5/10
+sharpness: 7/10",false,false,,,146.87525939941406,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+1b4bcc99-f62c-5aa9-836f-7bafc0d97d9f,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 05:16:28.241 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"late at night; finished working, about to shower and head to bed
+
+stress: 5.5/10
+sleepiness: 6.5/10
+sharpness: 6/10",false,false,,,146.56283569335938,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+6a618f8f-1bf4-5855-82be-e6e8bf68a377,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 00:39:27.604 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"at maseeh dining hall, finished eating dinner after working for a few hours and walking to maseeh dining
+
+stress: 5.5/10
+sleepiness: 4/10
+sharpness: 8/10",false,false,,,129.5,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+cf1767b5-399f-5136-87dd-0e05ca112df8,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 01:08:47.747 UTC,AGILITY,,,,"had dinner an hour ago (6-7 pm); talked to a friend while walking for 30 minutes; post 12 minute nap
+
+stress: 5/10 (because I have a lot of work to do)
+sleep: 3.5/10
+sharpness: 8/10",false,false,,,73,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+4584e6b5-a52b-513f-8ca9-013f58bec23b,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 06:19:11.844 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,same as before test,false,false,,,134.74986267089844,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+65d1fc94-ceca-583a-bb32-fb2ddd70bc5a,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-24 16:16:02.399 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 5.5/10
+sleepiness: 3.5/10
+sharpness: 7.5/10",false,false,,,153.75001525878906,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+62b0d343-76b0-5d07-9fd7-ed48ae00758a,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-23 20:36:49.32 UTC,FOCUS,,,,same as a few minutes before test description,false,false,,,1,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+adff5b6b-1d67-5b1c-a831-c115afb65d7d,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 00:18:00.838 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"working on a problem set after dinner and taking a short walk
+
+stress: 6/10
+sleepiness: 5.5/10
+sharpness: 7.75/10",false,false,,,148.75018310546875,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+49c73c8f-d496-5c07-bb59-7fd96e32dfc8,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 23:05:11.228 UTC,AGILITY,,,,"at vassar dining after walking there after a work session
+
+stress: 5/10
+sleepiness: 4/10
+sharpness: 7.5/10",false,false,,,78,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+6dac37de-ddce-5a63-9986-045e30c33af5,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 19:04:28.942 UTC,FOCUS,,,,"in the dining hall
+
+stress: 5/10
+sleepiness: 4/10
+sharpness: 8/10",false,false,,,2,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+a71c98d5-d3ba-5f97-b339-7172949aef9d,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 17:24:23.484 UTC,AGILITY,,,,same as test a minute ago ish ,false,false,,,67,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+557e691b-ad95-58d5-b184-a446e5954678,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 21:17:50.139 UTC,FOCUS,,,,same ad a few minutes ago,false,false,,,4,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+78275c82-d938-5b1f-b4a4-4e45d00193a6,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 22:57:17.709 UTC,READY,,,,,false,false,,,806.875,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,,UTC-05:00
+cc123246-3fa6-5d72-af5e-39febf09f331,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 17:22:51.789 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 4/10
+sleepiness: 3.5/10
+sharpness: 8/10",false,false,,,130.41697692871094,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+8f4a880b-dd1f-5ddb-a691-0f7f122e9af3,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 23:42:33.908 UTC,AGILITY,,,,same as test about a minute ago,false,false,,,74,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+3faad485-176f-5989-bf37-23d7464148cb,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 19:33:09.996 UTC,AGILITY,,,,"at recitation for machine learning about to start
+
+stress: 4/10
+sleepiness: 1/10
+sharpness: 8/10",false,false,,,70,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+0f3ed852-3c8b-5fc2-bdf6-d8cc8ff135d9,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 22:59:01.021 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"was a little disoriented because I had to switch tasks from running an experiment and it got canceled, then wanted to avoid talking to someone
+
+stress: 5/10
+sleepiness: 5/10
+sharpness: 7/10",false,false,,,173.39312744140625,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+4f7a054b-bc73-5741-8cbe-6b6deeb1fb5c,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 03:51:47.452 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,same as before in the test a minute ago ish ,false,false,,,147.49960327148438,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+e3c7d680-4b45-5348-8095-633a4665aace,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 22:17:53.738 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"just worked for an hour
+
+stress: 5/10
+sleepiness: 6/10
+sharpness: 7/10",false,false,,,153.54190063476562,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+97aa6168-d60a-524b-b5d4-fe0e80b9dacb,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 03:49:56.302 UTC,AGILITY,,,,"finished working for the night
+
+stress: 6/10
+sleepiness: 8/10
+sharpness: 5/10",false,false,,,71,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+6a7e748b-5244-509d-bcd3-6b63a06a230e,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 00:55:36.994 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 6/10
+sleepiness: 6.5/10
+sharpness: 6.5/10",false,false,,,150.00001525878906,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+c269580f-58d6-5a7c-a2d0-3fd2c7aafdd7,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 23:38:37.006 UTC,FOCUS,,,,"stress: 4/10
+sleepiness: 5/10
+sharpness: 7.5/10",false,false,,,1,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+0ae9750f-bb82-5ba6-80f6-afad2593c689,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 02:26:17.94 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"back at Simmons Hall after working for 2 hours
+
+stress: 6/10
+sleepiness: 7/10
+sharpness: 6.5/10",false,false,,,150.93745422363281,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+c9d3097f-8d66-54a8-93ed-8f5eead12e9f,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 06:56:09.096 UTC,AGILITY,,,,same as the test about a minute ago,false,false,,,62,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+1c1867ed-5f7e-5c67-a69e-41ca4630c553,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 19:09:51.65 UTC,AGILITY,,,,same as test about a minute ago,false,false,,,55,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+0301b6a9-934a-5888-98b3-3b1d6b32cfad,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 02:21:33.957 UTC,FOCUS,,,,"did an hour of work after eating and walking from the dining hall to the study space. felt pretty focused during the hour of work 8-9 pm
+
+stress: 5/10
+sleepiness: 6/10
+sharpness: 8.5/10",false,false,,,2,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+6a6f2fde-6726-594c-919c-0183331ec6db,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 05:05:08.672 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,same as the test about a minute ago,false,false,,,145.71406555175781,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+05428567-ddaa-514d-9797-8fa3ca448b80,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 21:10:19.922 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"had 3 1.5 hour classes back to back after waking up late this morning. felt pretty unfocused until 2:30 pm. 
+
+stress: 7/10
+sleepiness: 5.5/10
+sharpness: 8/10",false,false,,,146.45823669433594,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+d3ea798c-22d9-5f5e-b55e-310e0dd9ad97,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 00:24:14.122 UTC,AGILITY,,,,same as before in the tests a few minutes ago,false,false,,,61,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+ea0f63f7-d8e3-5510-8e2b-1b9580e40bd8,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 19:03:02.963 UTC,AGILITY,,,,same as the test a minute ago,false,false,,,73,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+8e5d31f7-aec1-5ce9-82d7-6fa601ac016a,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 23:44:02.223 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,same as test about a minute ago,false,false,,,164.28546142578125,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+624fc1a1-d926-5d79-925e-f66f764666e9,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 19:08:05.222 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"ate brunch at my dorm room and did some light work
+
+stress: 3/10
+sleepiness: 2/10
+sharpness: 8/10",false,false,,,122.75026702880859,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+52f1fbf9-5891-5da2-99b0-1fe74d9815e8,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 19:01:41.942 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 4/10
+sleepiness: 5/10
+sharpness: 8/10",false,false,,,131.25019836425781,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+e09cb898-be58-5380-9d16-3ba3fa9fa106,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 00:19:53.945 UTC,FOCUS,,,,same as test a few minutes ago,false,false,,,3,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+b6c44e9e-3908-58e5-846e-144b642cbf2e,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 03:53:21.874 UTC,FOCUS,,,,same as before a few minutes ago,false,false,,,3,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+37a98e25-a5c3-5a23-ad3a-8d772f93bc82,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 05:00:58.313 UTC,FOCUS,,,,"feeling really tired, want to go to sleep but must finish an assignment
+
+stress: 7/10
+sleepiness: 7/10
+sharpness: 5/10",false,false,,,2,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+050c9501-8585-5485-92a9-2f335229f957,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 20:07:00.641 UTC,AGILITY,,,,same as the test about a minute ago,false,false,,,83,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+8a37f58a-f572-588a-8d6a-801082257b15,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 16:39:13.492 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"just woke up like 5 minutes ago at my dorm
+
+stress: 4/10
+sleepiness: 2/10
+sharpness: 7/10",false,false,,,160.17875671386719,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+a874fc67-ea13-5c2f-9133-366741d82aeb,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 06:57:41.444 UTC,FOCUS,,,,same as before test a few minutes ago,false,false,,,3,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+21a4bdfc-c0fe-5033-b8d4-6e82eadb126a,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 03:23:48.255 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"took a short 10 minute nap, felt a little tired but better now upon awakening 
+
+stress: 5/10
+sleepiness: 5/10
+sharpness: 7/10",false,false,,,161.04177856445312,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+8a4d51be-d7c0-5d55-879e-3e5136456a8e,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 15:49:01.381 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 4/10
+sleepiness: 3/10
+sharpness: 7.5/10",false,false,,,148.24964904785156,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+c7abf696-ea86-5e88-b5ea-b769bfb8d36d,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 18:33:51.764 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"finished recitation and 2-3 hour work session, took a walk to dining hall
+
+stress: 5/10
+sleepiness: 6/10
+sharpness: 6.5/10",false,false,,,148.75001525878906,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+187bf409-3580-57d3-a202-c0d858a5e26c,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 02:26:52.087 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,same as before test 1 min ago,false,false,,,147.9171142578125,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+ea274631-09be-5ac7-a2da-1938e6db469d,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 15:06:29.262 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 5/10
+sleepiness: 5/10
+sharpness: 6/10",false,false,,,150.62489318847656,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+c8f0cdc7-a262-5e99-9b1d-0081be1a238f,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 16:41:22.641 UTC,AGILITY,,,,same as before test a minute ago,false,false,,,75,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+ff4bdf6f-b845-5f13-b3dc-ad74715a0b15,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 20:04:59.911 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"working at the student center at MIT
+
+stress: 5/10
+sleepiness: 5/10
+sharpness: 8/10",false,false,,,132.5001220703125,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+6e6e18ba-8546-5c8a-9c91-9ddbc85e84ff,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 19:35:28.46 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,same as test before a minute ish ago,false,false,,,144.37489318847656,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+923f1114-0334-5a26-ace1-375427c51b48,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 06:54:41.544 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 3/10
+sleepiness: 5/10
+sharpness: 7/10",false,false,,,123.49994659423828,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+b27c1d8d-3876-548b-a635-563f72e881a5,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 22:27:13.639 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 5/10
+sleepiness: 3.5/10
+sharpness: 8/10",false,false,,,143.12458801269531,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+560f1633-892f-5b6a-8519-e5fa51e53d91,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 19:07:17.694 UTC,READY,,,,,false,false,,,151.87486267089844,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,,UTC-05:00
+d6e5ff64-0e67-51b9-9d35-9bee846289c7,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 20:08:39.536 UTC,FOCUS,,,,same as the tests a few minutes ago,false,false,,,2,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+03a18492-518b-5bec-b999-6331a63281aa,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 02:16:29.325 UTC,FOCUS,,,,"finished taking a walk, about to work
+
+stress: 6/10
+sleepiness: 6/10
+sharpness: 8/10",false,false,,,3,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+d21b44ba-64a2-5a14-992c-96503233b4e7,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 21:13:18.316 UTC,AGILITY,,,,same as test 1 minute ago ish,false,false,,,77,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+c57a2239-25b5-586b-981a-57bf4fd73578,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 02:28:13.432 UTC,AGILITY,,,,same as before a few minutes ago,false,false,,,91,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+7e5d9210-d029-5884-a269-a14b073d5c41,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-25 03:38:13.049 UTC,AGILITY,,,,"worked hard on math problems for an hour, took a small 5 minute nap before that
+
+stress: 6/10
+sleepiness: 7/10
+sharpness: 6.5/10",false,false,,,63,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+f3802de1-1273-5d04-8cea-dc326c00e1cb,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-22 01:14:46.463 UTC,FOCUS,,,,same as before from the cognitive readiness test at 8:14 pm ,false,false,,,2,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;v.1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+3899afd0-b190-5075-b77c-be71f79374de,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-19 18:40:53.052 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"",false,false,,,190.20823669433594,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;v.1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+e51b3cde-2a89-57b6-bc50-8d4ef9252063,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-21 17:52:43.168 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"At Vassar Dining Hall, finished eating meal. about to work
+stress: 5/10
+sleapiness: 3/10
+subjective sharpness: 7.5/10
+",false,false,,,172.29179382324219,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;v.1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+21491a4d-9360-583a-9abd-3c23d97fc44d,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 22:07:29.948 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"stress: 6/10
+sleepiness: 4/10
+sharpness: 7/10",false,false,,,130.83340454101562,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;v.1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+96082a15-4e31-5548-8b47-afc881f48961,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-27 21:43:17.975 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"starting hackathon
+
+stress: 8/10
+sleepiness: 5/10
+sharpness: 6/10",false,false,,,151.87484741210938,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;v.1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC
+0eda2a68-d83a-56cb-a5c1-0ce3f711f5ea,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-26 02:04:10.119 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"took this test on the street
+
+stress: 5/10
+sleepiness: 5/10
+sharpness: 7/10",false,false,,,145.00016784667969,,false,,,,public,,Wave Band 2 C0400451;Wave Band 2;v.1.0.242_5f3d31c0,PISON;v.1.21.1;build.5037,UTC-05:00
+bb6549c8-e243-5164-8739-416f8f8211b1,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-13 15:34:22.884 UTC,READY,,,,,false,false,,,120.62522888183594,,false,,,,public,,Wave Band 2 C0403686;Wave Band 2;1.0.237_8386e274,,UTC-05:00
+f2a2600f-bb6a-5f32-a371-6483ad0772f8,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-16 20:54:51.618 UTC,UNKNOWN,,,,,false,false,,,208.74986267089844,,false,,,,public,,Wave Band 2 C0403686;Wave Band 2;1.0.237_8386e274,,UTC-05:00
+3309eeb1-b607-5496-b8d8-d5080052be03,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-13 15:39:37.205 UTC,AGILITY,,,,,false,false,,,35,,false,,,,public,,Wave Band 2 C0403686;Wave Band 2;1.0.237_8386e274,,UTC-05:00
+bdbb8c21-2460-5ade-850d-265aebebb5e8,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-16 20:53:22.271 UTC,UNKNOWN,,,,,false,false,,,177.49977111816406,,false,,,,public,,Wave Band 2 C0403686;Wave Band 2;1.0.237_8386e274,,UTC-05:00
+d299adf3-e598-5b78-954d-6f075984e32c,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-13 15:38:07.039 UTC,READY,,,,,false,false,,,174.99986267089844,,false,,,,public,,Wave Band 2 C0403686;Wave Band 2;1.0.237_8386e274,,UTC-05:00
+e24b77cd-aea9-5f24-81c5-458e1bf4a514,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-16 20:52:35.426 UTC,UNKNOWN,,,,,false,false,,,168.74981689453125,,false,,,,public,,Wave Band 2 C0403686;Wave Band 2;1.0.237_8386e274,,UTC-05:00
+cd7aaaaf-7501-53b5-8626-754e4f33cfd9,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-16 20:56:49.973 UTC,AGILITY,,,,"",false,false,,,83,,false,,,,public,,Wave Band 2 C0403686;Wave Band 2;v.1.0.237_8386e274,PISON;v.1.21.1;build.5037,UTC-05:00
+97a5e8ea-ed7d-56c1-8dcb-2fa5e85c4d7a,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-17 04:17:21.45 UTC,READY,,,,,false,false,,,162.24989318847656,,false,,,,public,,Wave Band 2 C0404333;Wave Band 2;1.0.241_e6cf6dce,,UTC-05:00
+a9104d1c-4284-57bd-8b26-bc8657167e99,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-17 00:12:14.227 UTC,READY,,,5c709b94-ef03-4afc-be99-b0fffad81733,"",false,false,,,210.41673278808594,,false,,,,public,,Wave Band 2 C0404333;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+341820e6-7e61-5dd7-b384-323c1f270aa8,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-17 00:16:03.801 UTC,AGILITY,,,,"",false,false,,,31,,false,,,,public,,Wave Band 2 C0404333;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00
+b6227f05-f4d5-5511-8e71-40b0dac63992,wHMYZZUGsCNuwO1VekMDNGnvkNA2,2026-02-17 00:19:06.088 UTC,FOCUS,,,,"",false,false,,,3,,false,,,,public,,Wave Band 2 C0404333;Wave Band 2;1.0.241_e6cf6dce,PISON;v.1.21.1;build.5037,UTC-05:00

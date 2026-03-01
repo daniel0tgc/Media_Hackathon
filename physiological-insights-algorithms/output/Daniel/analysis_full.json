@@ -1,0 +1,725 @@
+{
+  "meta": {
+    "analysis_generated_at": "2026-02-28T19:05:37.422035+00:00",
+    "data_coverage": {
+      "test_results": {
+        "from": "2026-02-13 14:54:00.972000+00:00",
+        "to": "2026-02-28 04:42:18.644000+00:00",
+        "total_tests": 44
+      },
+      "sensor_data": {
+        "from": "2026-02-23 17:27:30+00:00",
+        "to": "2026-02-28 00:01:00+00:00",
+        "total_epochs": 11888
+      },
+      "sleep_sessions": {
+        "from": "2026-02-24 05:57:00+00:00",
+        "to": "2026-02-27 16:20:00+00:00",
+        "total_sessions": 5
+      }
+    },
+    "graphs_directory": "output/Daniel/graphs",
+    "user_id": "CViK6KsxUbYVTaVzojV8ZhR1T5E3"
+  },
+  "baseline": {
+    "ready_score": 137.0,
+    "agility_peak": 93.0,
+    "focus_peak": 2.0,
+    "rmssd_sleep_peak_ms": 59.5,
+    "hr_nadir_bpm": null
+  },
+  "latest_day": {
+    "date": "2026-02-27",
+    "readiness_tier": "Moderate",
+    "ready_mean": 147.8,
+    "ready_pct_baseline": 107.9,
+    "agility_mean": 83.5,
+    "agility_pct_peak": 89.8,
+    "focus_mean": null,
+    "self_report": {
+      "stress": null,
+      "sleepiness": null,
+      "sharpness": null
+    },
+    "hrv": {
+      "morning_rmssd_ms": null,
+      "rmssd_pct_baseline": null
+    },
+    "sleep": {
+      "duration_min": null,
+      "wake_episodes": null,
+      "hr_nadir_bpm": null
+    },
+    "activity": {
+      "exercise_load": "high",
+      "steps": 9938.0,
+      "calories": 2019.3
+    },
+    "strain": {
+      "score": 11.1,
+      "level": "moderate",
+      "sleep_need_adjustment_min": 15
+    },
+    "context_notes": []
+  },
+  "daily_summaries": [
+    {
+      "date": "2026-02-13",
+      "readiness_tier": "Moderate",
+      "ready_mean": 150.8,
+      "ready_pct_baseline": 110.0,
+      "agility_mean": 53.0,
+      "agility_pct_peak": 57.0,
+      "focus_mean": null,
+      "self_report": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "hrv": {
+        "morning_rmssd_ms": null,
+        "rmssd_pct_baseline": null
+      },
+      "sleep": {
+        "duration_min": null,
+        "wake_episodes": null,
+        "hr_nadir_bpm": null
+      },
+      "activity": {
+        "exercise_load": null,
+        "steps": 0,
+        "calories": 0.0
+      },
+      "strain": null,
+      "context_notes": []
+    },
+    {
+      "date": "2026-02-22",
+      "readiness_tier": "Low",
+      "ready_mean": 137.0,
+      "ready_pct_baseline": 100.0,
+      "agility_mean": null,
+      "agility_pct_peak": null,
+      "focus_mean": null,
+      "self_report": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "hrv": {
+        "morning_rmssd_ms": null,
+        "rmssd_pct_baseline": null
+      },
+      "sleep": {
+        "duration_min": null,
+        "wake_episodes": null,
+        "hr_nadir_bpm": null
+      },
+      "activity": {
+        "exercise_load": null,
+        "steps": 0,
+        "calories": 0.0
+      },
+      "strain": null,
+      "context_notes": []
+    },
+    {
+      "date": "2026-02-23",
+      "readiness_tier": "Moderate",
+      "ready_mean": 155.6,
+      "ready_pct_baseline": 113.6,
+      "agility_mean": 58.5,
+      "agility_pct_peak": 62.9,
+      "focus_mean": 2.0,
+      "self_report": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "hrv": {
+        "morning_rmssd_ms": null,
+        "rmssd_pct_baseline": null
+      },
+      "sleep": {
+        "duration_min": null,
+        "wake_episodes": null,
+        "hr_nadir_bpm": null
+      },
+      "activity": {
+        "exercise_load": "high",
+        "steps": 124.0,
+        "calories": 51.2
+      },
+      "strain": {
+        "score": 2.1,
+        "level": "minimal",
+        "sleep_need_adjustment_min": 0
+      },
+      "context_notes": []
+    },
+    {
+      "date": "2026-02-24",
+      "readiness_tier": "Moderate",
+      "ready_mean": 145.9,
+      "ready_pct_baseline": 106.5,
+      "agility_mean": 72.6,
+      "agility_pct_peak": 78.0,
+      "focus_mean": 1.0,
+      "self_report": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "hrv": {
+        "morning_rmssd_ms": null,
+        "rmssd_pct_baseline": null
+      },
+      "sleep": {
+        "duration_min": null,
+        "wake_episodes": null,
+        "hr_nadir_bpm": null
+      },
+      "activity": {
+        "exercise_load": "high",
+        "steps": 4154.0,
+        "calories": 1532.1
+      },
+      "strain": {
+        "score": 9.4,
+        "level": "moderate",
+        "sleep_need_adjustment_min": 0
+      },
+      "context_notes": []
+    },
+    {
+      "date": "2026-02-25",
+      "readiness_tier": "Moderate",
+      "ready_mean": 168.7,
+      "ready_pct_baseline": 123.1,
+      "agility_mean": 61.0,
+      "agility_pct_peak": 65.6,
+      "focus_mean": null,
+      "self_report": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "hrv": {
+        "morning_rmssd_ms": null,
+        "rmssd_pct_baseline": null
+      },
+      "sleep": {
+        "duration_min": null,
+        "wake_episodes": null,
+        "hr_nadir_bpm": null
+      },
+      "activity": {
+        "exercise_load": "high",
+        "steps": 18764.0,
+        "calories": 3071.8
+      },
+      "strain": {
+        "score": 14.2,
+        "level": "high",
+        "sleep_need_adjustment_min": 30
+      },
+      "context_notes": []
+    },
+    {
+      "date": "2026-02-26",
+      "readiness_tier": "Moderate",
+      "ready_mean": 151.7,
+      "ready_pct_baseline": 110.7,
+      "agility_mean": 81.0,
+      "agility_pct_peak": 87.1,
+      "focus_mean": null,
+      "self_report": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "hrv": {
+        "morning_rmssd_ms": null,
+        "rmssd_pct_baseline": null
+      },
+      "sleep": {
+        "duration_min": null,
+        "wake_episodes": null,
+        "hr_nadir_bpm": null
+      },
+      "activity": {
+        "exercise_load": "high",
+        "steps": 21053.0,
+        "calories": 3152.8
+      },
+      "strain": {
+        "score": 15.1,
+        "level": "high",
+        "sleep_need_adjustment_min": 30
+      },
+      "context_notes": []
+    },
+    {
+      "date": "2026-02-27",
+      "readiness_tier": "Moderate",
+      "ready_mean": 147.8,
+      "ready_pct_baseline": 107.9,
+      "agility_mean": 83.5,
+      "agility_pct_peak": 89.8,
+      "focus_mean": null,
+      "self_report": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "hrv": {
+        "morning_rmssd_ms": null,
+        "rmssd_pct_baseline": null
+      },
+      "sleep": {
+        "duration_min": null,
+        "wake_episodes": null,
+        "hr_nadir_bpm": null
+      },
+      "activity": {
+        "exercise_load": "high",
+        "steps": 9938.0,
+        "calories": 2019.3
+      },
+      "strain": {
+        "score": 11.1,
+        "level": "moderate",
+        "sleep_need_adjustment_min": 15
+      },
+      "context_notes": []
+    }
+  ],
+  "weekly_summaries": [
+    {
+      "week_label": "2026-W07",
+      "date_range": {
+        "from": "2026-02-13",
+        "to": "2026-02-13"
+      },
+      "ready_week_mean": 150.8,
+      "ready_week_pct_baseline": 110.0,
+      "agility_week_mean": 53.0,
+      "focus_week_mean": null,
+      "self_report_means": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "test_count": 5
+    },
+    {
+      "week_label": "2026-W08",
+      "date_range": {
+        "from": "2026-02-22",
+        "to": "2026-02-22"
+      },
+      "ready_week_mean": 137.0,
+      "ready_week_pct_baseline": 100.0,
+      "agility_week_mean": null,
+      "focus_week_mean": null,
+      "self_report_means": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "test_count": 1,
+      "vs_prior_week": {
+        "ready_change_pct": -9.1,
+        "agility_change_pct": null,
+        "stress_change": null
+      }
+    },
+    {
+      "week_label": "2026-W09",
+      "date_range": {
+        "from": "2026-02-23",
+        "to": "2026-02-27"
+      },
+      "ready_week_mean": 152.5,
+      "ready_week_pct_baseline": 111.3,
+      "agility_week_mean": 70.5,
+      "focus_week_mean": 1.5,
+      "self_report_means": {
+        "stress": null,
+        "sleepiness": null,
+        "sharpness": null
+      },
+      "test_count": 13,
+      "vs_prior_week": {
+        "ready_change_pct": 11.3,
+        "agility_change_pct": null,
+        "stress_change": null
+      }
+    }
+  ],
+  "trends": {
+    "ready_7d_slope": 1.2,
+    "ready_trend_direction": "improving",
+    "rmssd_7d_slope": 1.6,
+    "agility_trend": "stable"
+  },
+  "patterns_detected": [
+    {
+      "pattern": "compounding_readiness_debt",
+      "description": "Ready scores declined 3 points (2.1%) over 7 days",
+      "severity": "warning",
+      "first_detected": "2026-02-27"
+    },
+    {
+      "pattern": "rem_sleep_deficit",
+      "description": "REM sleep below 20% target on 3 nights (avg 14.6%). May affect emotional regulation and memory.",
+      "severity": "warning",
+      "first_detected": "2026-02-24"
+    },
+    {
+      "pattern": "circadian_misalignment",
+      "description": "Circadian compliance below 50% on 4 nights. Sleep timing is misaligned with biological clock.",
+      "severity": "warning",
+      "first_detected": "2026-02-24"
+    }
+  ],
+  "circadian_profile": {
+    "estimated_peak_window": "10:00-13:00",
+    "cosinor_acrophase_hour": 12.3,
+    "cosinor_amplitude": 6.6,
+    "worst_window": "00:00-02:00",
+    "cosinor_n": 19,
+    "peak_score_variance": 56.5,
+    "natural_sleep_onset_local": "01:42",
+    "natural_wake_local": "09:14",
+    "bedtime_variance_min": 32.0,
+    "chronotype_estimate": "intermediate"
+  },
+  "task_matching": {
+    "deep_analytical_work": false,
+    "creative_brainstorming": true,
+    "high_stakes_presentation": false,
+    "routine_admin": true,
+    "physical_training": true
+  },
+  "sleep_sessions": {
+    "nights": [
+      {
+        "night_date": "2026-02-24",
+        "session_type": "primary",
+        "sleep_start": "2026-02-24 00:57:00-05:00",
+        "sleep_end": "2026-02-24 09:46:30-05:00",
+        "total_sleep_min": 496,
+        "session_time_min": 530,
+        "deep_min": 121,
+        "deep_pct": 24.4,
+        "deep_on_target": false,
+        "rem_min": 71,
+        "rem_pct": 14.3,
+        "rem_on_target": false,
+        "light_min": 303,
+        "light_pct": 61.1,
+        "wake_min": 34,
+        "wake_pct": 6.4,
+        "efficiency_pct": 93.6,
+        "sufficiency_pct": 112.7,
+        "sleep_needed_min": 440,
+        "sleep_debt_min": 0,
+        "recovery_score": 54.0,
+        "stress_score": 4.83,
+        "avg_hrv_rmssd_ms": 25,
+        "avg_hr_bpm": 87,
+        "circadian_compliance": 19
+      },
+      {
+        "night_date": "2026-02-25",
+        "session_type": "primary",
+        "sleep_start": "2026-02-25 01:43:00-05:00",
+        "sleep_end": "2026-02-25 09:19:00-05:00",
+        "total_sleep_min": 379,
+        "session_time_min": 456,
+        "deep_min": 69,
+        "deep_pct": 18.2,
+        "deep_on_target": true,
+        "rem_min": 45,
+        "rem_pct": 11.9,
+        "rem_on_target": false,
+        "light_min": 264,
+        "light_pct": 69.7,
+        "wake_min": 77,
+        "wake_pct": 16.9,
+        "efficiency_pct": 83.1,
+        "sufficiency_pct": 74.8,
+        "sleep_needed_min": 507,
+        "sleep_debt_min": 34,
+        "recovery_score": 52.1,
+        "stress_score": 4.55,
+        "avg_hrv_rmssd_ms": 44,
+        "avg_hr_bpm": 74,
+        "circadian_compliance": 15
+      },
+      {
+        "night_date": "2026-02-26",
+        "session_type": "primary",
+        "sleep_start": "2026-02-26 02:00:30-05:00",
+        "sleep_end": "2026-02-26 08:14:30-05:00",
+        "total_sleep_min": 339,
+        "session_time_min": 374,
+        "deep_min": 149,
+        "deep_pct": 44.0,
+        "deep_on_target": false,
+        "rem_min": 60,
+        "rem_pct": 17.7,
+        "rem_on_target": false,
+        "light_min": 130,
+        "light_pct": 38.3,
+        "wake_min": 35,
+        "wake_pct": 9.4,
+        "efficiency_pct": 90.6,
+        "sufficiency_pct": 59.7,
+        "sleep_needed_min": 568,
+        "sleep_debt_min": 95,
+        "recovery_score": 43.1,
+        "stress_score": 5.98,
+        "avg_hrv_rmssd_ms": 31,
+        "avg_hr_bpm": 81,
+        "circadian_compliance": 25
+      },
+      {
+        "night_date": "2026-02-27",
+        "session_type": "primary",
+        "sleep_start": "2026-02-27 02:10:30-05:00",
+        "sleep_end": "2026-02-27 09:39:30-05:00",
+        "total_sleep_min": 382,
+        "session_time_min": 449,
+        "deep_min": 63,
+        "deep_pct": 16.5,
+        "deep_on_target": true,
+        "rem_min": 89,
+        "rem_pct": 23.3,
+        "rem_on_target": true,
+        "light_min": 229,
+        "light_pct": 59.9,
+        "wake_min": 67,
+        "wake_pct": 14.9,
+        "efficiency_pct": 85.1,
+        "sufficiency_pct": 66.1,
+        "sleep_needed_min": 578,
+        "sleep_debt_min": 105,
+        "recovery_score": 51.0,
+        "stress_score": 6.18,
+        "avg_hrv_rmssd_ms": 40,
+        "avg_hr_bpm": 82,
+        "circadian_compliance": 5
+      },
+      {
+        "night_date": "2026-02-27",
+        "session_type": "nap",
+        "sleep_start": "2026-02-27 11:20:00-05:00",
+        "sleep_end": "2026-02-27 13:59:30-05:00",
+        "total_sleep_min": 159,
+        "session_time_min": 160,
+        "deep_min": 1,
+        "deep_pct": 0.6,
+        "deep_on_target": false,
+        "rem_min": 122,
+        "rem_pct": 76.7,
+        "rem_on_target": false,
+        "light_min": 35,
+        "light_pct": 22.0,
+        "wake_min": 0,
+        "wake_pct": 0.0,
+        "efficiency_pct": 99.4,
+        "sufficiency_pct": 26.5,
+        "sleep_needed_min": 600,
+        "sleep_debt_min": 127,
+        "recovery_score": 58.5,
+        "stress_score": 6.18,
+        "avg_hrv_rmssd_ms": 149,
+        "avg_hr_bpm": 82,
+        "circadian_compliance": 99
+      }
+    ],
+    "architecture_summary": {
+      "avg_deep_pct": 25.8,
+      "avg_rem_pct": 16.8,
+      "avg_light_pct": 57.3,
+      "avg_efficiency_pct": 88.1,
+      "deep_target": "15-20%",
+      "rem_target": "20-25%",
+      "rem_debt_min_3night": 39,
+      "avg_bedtime_local": null,
+      "avg_wake_local": null,
+      "session_type_breakdown": {
+        "primary_nights": 4,
+        "nap_sessions": 1
+      }
+    },
+    "sleep_performance": {
+      "composite_score": 82.1,
+      "sufficiency": 78.3,
+      "efficiency": 88.1,
+      "consistency": 86.5,
+      "architecture_quality": 75.4,
+      "bedtime_variance_min": 32
+    }
+  },
+  "sleep_debt": {
+    "current_debt_min": 105.0,
+    "current_debt_hours": 1.8,
+    "nights_to_repay": 7,
+    "avg_nightly_deficit_min": 124.2,
+    "trend": "worsening"
+  },
+  "recovery": {
+    "latest": 51.0,
+    "zone": "yellow",
+    "personal_mean": 50.0,
+    "pct_of_mean": 101.8,
+    "trend": "improving",
+    "days_since_green_zone": 4,
+    "history": [
+      54.0,
+      52.1,
+      43.1,
+      51.0
+    ]
+  },
+  "strain": {
+    "daily_strain": [
+      {
+        "date": "2026-02-23",
+        "strain_score": 2.1,
+        "cardiovascular_strain": 1.1,
+        "muscular_strain": 4.3,
+        "strain_level": "minimal",
+        "zone_1_min": 12.0,
+        "zone_2_min": 15.5,
+        "zone_3_min": 1.5,
+        "zone_4_min": 0.0,
+        "zone_5_min": 0.0,
+        "sleep_need_adjustment_min": 0
+      },
+      {
+        "date": "2026-02-24",
+        "strain_score": 9.4,
+        "cardiovascular_strain": 7.3,
+        "muscular_strain": 14.4,
+        "strain_level": "moderate",
+        "zone_1_min": 498.0,
+        "zone_2_min": 150.5,
+        "zone_3_min": 18.0,
+        "zone_4_min": 8.0,
+        "zone_5_min": 0.5,
+        "sleep_need_adjustment_min": 0
+      },
+      {
+        "date": "2026-02-25",
+        "strain_score": 14.2,
+        "cardiovascular_strain": 11.4,
+        "muscular_strain": 20.8,
+        "strain_level": "high",
+        "zone_1_min": 284.0,
+        "zone_2_min": 208.0,
+        "zone_3_min": 100.0,
+        "zone_4_min": 30.0,
+        "zone_5_min": 4.0,
+        "sleep_need_adjustment_min": 30
+      },
+      {
+        "date": "2026-02-26",
+        "strain_score": 15.1,
+        "cardiovascular_strain": 12.5,
+        "muscular_strain": 21.0,
+        "strain_level": "high",
+        "zone_1_min": 391.0,
+        "zone_2_min": 251.5,
+        "zone_3_min": 82.0,
+        "zone_4_min": 36.0,
+        "zone_5_min": 17.0,
+        "sleep_need_adjustment_min": 30
+      },
+      {
+        "date": "2026-02-27",
+        "strain_score": 11.1,
+        "cardiovascular_strain": 8.7,
+        "muscular_strain": 16.6,
+        "strain_level": "moderate",
+        "zone_1_min": 251.5,
+        "zone_2_min": 148.0,
+        "zone_3_min": 27.5,
+        "zone_4_min": 9.5,
+        "zone_5_min": 8.5,
+        "sleep_need_adjustment_min": 15
+      }
+    ],
+    "max_hr_est": 150.0
+  },
+  "graphs": [
+    {
+      "filename": "ready_score_trajectory.png",
+      "description": "Daily Ready score with 7-day rolling avg and baseline"
+    },
+    {
+      "filename": "agility_focus_trajectory.png",
+      "description": "Agility and Focus scores over time"
+    },
+    {
+      "filename": "circadian_performance_curve.png",
+      "description": "Ready scores by hour with cosinor fit"
+    },
+    {
+      "filename": "self_report_vs_ready.png",
+      "description": "Stress/sleepiness/sharpness vs Ready correlations"
+    },
+    {
+      "filename": "hrv_night_profile.png",
+      "description": "HR, RMSSD, and motion during captured night(s)"
+    },
+    {
+      "filename": "weekly_readiness_summary.png",
+      "description": "Week-over-week readiness comparison"
+    },
+    {
+      "filename": "score_distributions.png",
+      "description": "Histograms of Ready, Agility, Focus scores"
+    },
+    {
+      "filename": "stress_sleepiness_heatmap.png",
+      "description": "Heatmap of stress x sleepiness vs mean Ready"
+    },
+    {
+      "filename": "sleep_architecture.png",
+      "description": "Stacked bar chart of sleep stages per night"
+    },
+    {
+      "filename": "sleep_debt_tracker.png",
+      "description": "Running sleep debt with actual vs needed bars"
+    },
+    {
+      "filename": "recovery_trend.png",
+      "description": "Recovery score trend with color-coded zones"
+    },
+    {
+      "filename": "strain_vs_recovery.png",
+      "description": "Daily strain vs next-day recovery scatter"
+    }
+  ],
+  "insights": [
+    "Ready baseline is 137.0. Current average is 147.8 (107.9% of baseline).",
+    "Week 2026-W09 showed a 11.3% Ready improvement vs 2026-W08.",
+    "Best performance window is 10:00-13:00 (local time).",
+    "7-day Ready trend is improving (slope = 1.2 points/day).",
+    "You owe 1.8 hours of sleep. At current recovery rate, this will take ~7 days to repay.",
+    "Deep sleep averaged 25.8% \u2014 above target. Excellent physical recovery.",
+    "REM sleep averaged 16.8% (below 20-25% target) \u2014 may affect emotional regulation and memory.",
+    "Recovery score is 51.0% (moderate). Light to moderate activity recommended; defer high-intensity training.",
+    "Recovery is at 101.8% of your personal average (50.0%).",
+    "Sleep consistency is 86.5% \u2014 solid routine.",
+    "Circadian compliance was 99% \u2014 sleep timing aligns well with your biological clock.",
+    "Recent strain was 11.1 (moderate).",
+    "Ready scores declined 3 points (2.1%) over 7 days",
+    "REM sleep below 20% target on 3 nights (avg 14.6%). May affect emotional regulation and memory.",
+    "Circadian compliance below 50% on 4 nights. Sleep timing is misaligned with biological clock."
+  ]
+}

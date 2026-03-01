@@ -1,0 +1,92 @@
+{
+  "schema_version": "3.0",
+  "meta": {
+    "analysis_generated_at": "2026-02-28T19:06:00.422820+00:00",
+    "data_coverage": {
+      "test_results": {
+        "from": "2026-02-13 15:34:22.884000+00:00",
+        "to": "2026-02-27 21:43:17.975000+00:00",
+        "total_tests": 123
+      },
+      "sensor_data": {
+        "from": "2026-02-16 15:52:30+00:00",
+        "to": "2026-02-27 12:00:30+00:00",
+        "total_epochs": 29605
+      }
+    }
+  },
+  "agent_state": {
+    "readiness_regime": "green",
+    "consecutive_overreach_days": 0,
+    "days_since_rest_day": 0,
+    "sleep_debt_alert": false,
+    "rem_deficit_alert": false,
+    "circadian_anchor_missing": false,
+    "recommended_strain_ceiling": 18,
+    "deep_work_capacity": "high",
+    "nap_recommended": false,
+    "peak_cognitive_window_local": "16:00-19:00",
+    "peak_cognitive_confidence": "low"
+  },
+  "data_quality": {
+    "sensor_days": 11,
+    "sleep_sessions_primary": 0,
+    "self_report_populated_pct": 100,
+    "morning_hrv_populated_pct": 0,
+    "focus_metric_valid": false,
+    "strain_recovery_curve_learnable": true,
+    "chronotype_confidence": "high",
+    "overall_confidence": "medium"
+  },
+  "alerts": [],
+  "baseline": {
+    "ready_score": 185.0,
+    "agility_peak": 91.0,
+    "rmssd_sleep_peak_ms": 122.2,
+    "ready_p25": 147.8,
+    "ready_p50": 157.8,
+    "ready_p75": 185.9
+  },
+  "latest_day": {
+    "date": "2026-02-27",
+    "readiness_tier": "Moderate",
+    "ready_mean": 142.7,
+    "ready_pct_baseline": 77.1,
+    "agility_mean": 77.0,
+    "focus_mean": 2.0,
+    "self_report": {
+      "stress": 5.1,
+      "sleepiness": 4.8,
+      "sharpness": 7.2
+    },
+    "strain": {
+      "score": 0.0,
+      "level": "minimal",
+      "sleep_need_adjustment_min": 0
+    }
+  },
+  "circadian": {
+    "estimated_peak_window": "16:00-19:00",
+    "cosinor_acrophase_hour": 17.9,
+    "cosinor_amplitude": 35.8,
+    "worst_window": "05:00-07:00",
+    "peak_score_variance": 28214.8,
+    "chronotype_estimate": "evening_owl",
+    "cosinor_n": 60
+  },
+  "strain": {
+    "latest_score": 0.0,
+    "latest_level": "minimal",
+    "latest_sleep_need_adj_min": 0,
+    "max_hr_est": 150.0,
+    "days_since_rest_day": 0,
+    "strain_variability": "moderate",
+    "rest_day_overdue": false
+  },
+  "trends": {
+    "ready_7d_slope": 0.1,
+    "ready_trend_direction": "stable",
+    "rmssd_7d_slope": 2.2,
+    "agility_trend": "stable"
+  }
+}
